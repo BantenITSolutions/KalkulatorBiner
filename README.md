@@ -1,4 +1,4 @@
 KalkulatorBiner
 ===============
 
-Kalkulator Sederhana Untuk Konversi Bilangan Desimal ke Bilangan Biner dan Sebaliknya
+Kalkulator Android Sederhana Untuk Konversi Bilangan Desimal ke Bilangan Biner dan Sebaliknya
